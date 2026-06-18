@@ -1,0 +1,19 @@
+----------------------------------------------------------------
+Thu Jun 18 15:44:51 GMT-03:00 2026:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (???): instance a816c00e-019e-dc0c-dde0-00000b3e0318 
+on database directory C:\Users\Leonardo\Documents\palpitei_BD\palpiteiDB with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@105be200 
+Loaded from file:/C:/Users/Leonardo/Documents/palpitei_BD/palpitei_bd/Palpitei.jar
+java.vendor=Oracle Corporation
+java.runtime.version=25.0.1+8-LTS-27
+user.dir=c:\Users\Leonardo\Documents\palpitei_BD
+os.name=Windows 11
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Thu Jun 18 15:45:22 GMT-03:00 2026: Shutting down Derby engine
+----------------------------------------------------------------
+Thu Jun 18 15:45:22 GMT-03:00 2026:
+Shutting down instance a816c00e-019e-dc0c-dde0-00000b3e0318 on database directory C:\Users\Leonardo\Documents\palpitei_BD\palpiteiDB with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@105be200 
+----------------------------------------------------------------
